@@ -7,13 +7,13 @@ LICENSE: [MIT](license.md/)
 ---
 
 ### Содержание: 
-1. [git status](./git%20status.md)
+1. [git status](./gitstatus.md)
 2. [git add](./add.md)
-3. [git commit](./git%20commit.md)
-4. [git reset](./git%20reset.md)
-5. [git push](./git%20push.md)
-6. [git remote](./git%20remote.md)
-7. [git archive](./git%20archive.md)
+3. [git commit](./gitcommit.md)
+4. [git reset](./gitreset.md)
+5. [git push](./gitpush.md)
+6. [git remote](./gitremote.md)
+7. [git archive](./gitarchive.md)
 
 
 ---
